@@ -1,0 +1,6 @@
+; express: لإنشاء API.
+; mongoose: للتفاعل مع MongoDB.
+; jwt-simple: لإنشاء وتحقق من توكن JWT.
+; bcryptjs: لتشفير كلمات المرور.
+; cors: للسماح بالتواصل بين الخادم (backend) والواجهة الأمامية (frontend).
+; dotenv: لتحميل المتغيرات البيئية من ملف .env.
